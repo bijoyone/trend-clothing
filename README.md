@@ -1,2 +1,2 @@
 # trend-clothing
-Complex &amp; large E-Commerce project (Online Clothing Store)  
+Complex &amp; large E-Commerce Clothing Store  
