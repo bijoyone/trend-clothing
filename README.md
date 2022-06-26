@@ -12,5 +12,5 @@
  - Deploying with Netlify
 
  
- Live Project Demo: https://trend-clothing-online.netlify.app/
+ Live Project Demo: https://trend-clothing-store.netlify.app/
 
