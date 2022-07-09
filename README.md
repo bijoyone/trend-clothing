@@ -7,6 +7,7 @@
  - React Routing
  - Reducer
  - Redux
+ - Reselect library for Redux
  - Redux Persist
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
