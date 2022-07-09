@@ -5,12 +5,17 @@
  - React Hooks
  - React Context
  - React Routing
+ - Reducer
+ - Redux
+ - Redux Persist
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
  - SCSS
  - CSS in JS with styled-components
  - Deploying with Netlify
+  
+  
 
  
- Live Project Demo: https://trend-clothing-store.netlify.app/
+ Live Project Demo (Context version): https://trend-clothing-store.netlify.app/
 
