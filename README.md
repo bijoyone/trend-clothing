@@ -10,6 +10,7 @@
  - Reselect library for Redux
  - Redux Persist
  - Redux-Thunk
+ - Redux-Saga
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
  - SCSS
