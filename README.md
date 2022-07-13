@@ -21,6 +21,7 @@
 https://github.com/bijoyone/trend-clothing/tree/Context-version
  - Live Project Demo (Context version): 
 https://trend-clothing-store.netlify.app/
+- project Redux-Thunk version: https://github.com/bijoyone/trend-clothing/tree/redux-thunk-version
 - Live Project (Redux-Thunk version): 
  https://trend-clothing-redux-thunk.netlify.app/ 
 
