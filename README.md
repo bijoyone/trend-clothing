@@ -1,5 +1,5 @@
 # trend-clothing
-## Large &amp; Complex E-Commerce Clothing Store  
+## Large &amp; Complex E-Commerce Clothing Store  (Redux-Thunk version)
  
  - React
  - React Hooks
