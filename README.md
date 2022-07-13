@@ -1,4 +1,4 @@
-# trend-clothing
+# trend-clothing (React Context Version)
 ## Large &amp; Complex E-Commerce Clothing Store  
  
  - React
