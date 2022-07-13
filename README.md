@@ -19,5 +19,6 @@
 
 ###Conext version:
 https://github.com/bijoyone/trend-clothing/tree/Context-version
-###Live Project Demo (Context version): https://trend-clothing-store.netlify.app/
+-Live Project Demo (Context version): 
+https://trend-clothing-store.netlify.app/
 
