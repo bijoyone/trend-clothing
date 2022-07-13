@@ -18,13 +18,16 @@
  - Deploying with Netlify
 
 ------
- - project Context version:
+ - Context version:
 https://github.com/bijoyone/trend-clothing/tree/Context-version
  - Live Project Demo (Context version): 
 https://trend-clothing-store.netlify.app/
-- project Redux-Thunk version: https://github.com/bijoyone/trend-clothing/tree/redux-thunk-version
+- Redux version: 
+- Live Project Demo (Redux version):  
+- Redux-Thunk version: https://github.com/bijoyone/trend-clothing/tree/redux-thunk-version
 - Live Project Demo (Redux-Thunk version): 
  https://trend-clothing-redux-thunk.netlify.app/ 
-- 
+- Redux-saga version:
+- Live Project Demo (Redux-Saga version):  
 
 
