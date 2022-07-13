@@ -3,9 +3,9 @@
  
  - React
  - React Hooks
- - React Context
  - React Routing
  - Reducer
+ -  React Context
  - Redux
  - Reselect library for Redux
  - Redux Persist
