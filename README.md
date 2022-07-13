@@ -9,6 +9,7 @@
  - Redux
  - Reselect library for Redux
  - Redux Persist
+ - Redux-Thunk
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
  - SCSS
@@ -20,4 +21,6 @@
 https://github.com/bijoyone/trend-clothing/tree/Context-version
  - Live Project Demo (Context version): 
 https://trend-clothing-store.netlify.app/
+- Live Project (Redux-Thunk version): 
+ https://trend-clothing-redux-thunk.netlify.app/ 
 
