@@ -5,7 +5,7 @@
  - React Hooks
  - React Routing
  - Reducer
- -  React Context
+ - React Context
  - Redux
  - Reselect library for Redux
  - Redux Persist
