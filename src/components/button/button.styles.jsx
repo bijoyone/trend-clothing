@@ -1,12 +1,12 @@
 import styled from "styled-components";
 
 export const BaseButton = styled.button`
-  min-width: 165px;
+  min-width: 150px;
   width: auto;
   height: 50px;
   letter-spacing: 0.5px;
   line-height: 50px;
-  padding: 0 25px 0 25px;
+  padding: 0 10px 0 10px;
   font-size: 15px;
   background-color: black;
   color: white;
