@@ -11,6 +11,8 @@
  - Redux Persist
  - Redux-Thunk 
  - Redux-Saga
+ - Serverless Function 
+ - Stripe Payment
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
  - SCSS
@@ -24,7 +26,7 @@
 - Live Project Demo (Redux version): https://trend-clothing-redux.netlify.app/
 - Redux-Thunk version: https://github.com/bijoyone/trend-clothing/tree/redux-thunk-version
 - Live Project Demo (Redux-Thunk version): https://trend-clothing-redux-thunk.netlify.app/ 
-- Redux-saga version: 
-- Live Project Demo (Redux-Saga version):  
+- Redux-saga version: https://github.com/bijoyone/trend-clothing/tree/redux-saga-version
+- Live Project Demo (Redux-Saga version):  https://trend-clothing-redux-saga.netlify.app/
 
 
