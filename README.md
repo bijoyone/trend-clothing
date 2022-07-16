@@ -11,7 +11,7 @@
  - Redux Persist
  - Redux-Thunk 
  - Redux-Saga
- - Serverless Function 
+ - Serverless Functions 
  - Stripe Payment
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
