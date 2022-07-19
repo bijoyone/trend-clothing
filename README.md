@@ -13,6 +13,7 @@
  - Redux-Saga
  - Serverless Functions 
  - Stripe Payment
+ - Performance Optimizations
  - Firebase for Authentication and Authorization 
  - Firebase for Database Storage
  - SCSS
