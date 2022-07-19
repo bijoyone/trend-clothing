@@ -108,12 +108,12 @@ export function* onSignUpStart() {
   yield takeLatest(USER_ACTION_TYPES.SIGN_UP_START, signUp);
 }
 
-export function* onSignUpSuccess() {
-  yield takeLatest(USER_ACTION_TYPES.SIGN_UP_SUCCESS, signInAfterSignUp);
-}
-
 export function* onSignOutStart() {
   yield takeLatest(USER_ACTION_TYPES.SIGN_OUT_START, signOut);
+}
+
+export function* onSignUpSuccess() {
+  yield takeLatest(USER_ACTION_TYPES.SIGN_UP_SUCCESS, signInAfterSignUp);
 }
 
 export function* userSaga() {
